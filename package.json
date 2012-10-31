@@ -1,0 +1,25 @@
+{
+  "name": "yahtzee",
+  "version": "0.1.0",
+  "description": "simple yahtzee game with websockets and knockout",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leiron/yahtzee.git"
+  },
+  "keywords": [
+    "yahtzee",
+    "dice",
+    "game",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Mario Stöcklein",
+  "license": "BSD"
+}
